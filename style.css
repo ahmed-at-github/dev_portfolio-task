@@ -250,3 +250,74 @@ main {
   font-weight: 400;
   line-height: 28px;
 }
+
+/*Summary section started here*/
+
+.summary-section {
+  margin-top: 130px;
+}
+
+.summary-section h2 {
+  text-align: center;
+  margin-bottom: 130px;
+}
+
+.summary-element {
+  display: flex;
+  gap: 24px;
+}
+
+.summary-element hr {
+  margin-bottom: 30px;
+  border: 1px #d1d1d1 solid;
+}
+
+.summary-education h2,
+.summary-experience h2 {
+  color: #474747;
+  font-size: 30px;
+  font-family: Open Sans;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.summary-sub-section {
+  margin-right: 71px;
+}
+
+.summary-sub-section h3 {
+  color: #474747;
+  font-size: 25px;
+  font-family: Open Sans;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.summary-sub-section h4 {
+  color: #757575;
+  font-size: 20px;
+  font-family: Open Sans;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.summary-sub-section p {
+  color: #757575;
+  font-size: 16px;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 30px;
+  line-height: 28px;
+}
+
+.summary-sub-section hr {
+  margin-bottom: 30px;
+}
+
+.btn-download-cv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
